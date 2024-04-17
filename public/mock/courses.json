@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Python Programming",
+    "description": "Learn the fundamentals of Python programming language.",
+    "categoryId": 1,
+    "category": {
+      "id": 1,
+      "name": "Programming Languages",
+      "description": "Explore various programming languages and their features."
+    }
+  },
+  {
+    "id": 2,
+    "title": "Web Development Basics",
+    "description": "Discover the basics of web development using HTML, CSS, and JavaScript.",
+    "categoryId": 2,
+    "category": {
+      "id": 2,
+      "name": "Web Development",
+      "description": "Learn about building websites and web applications using HTML, CSS, and JavaScript."
+    }
+  },
+  {
+    "id": 3,
+    "title": "Introduction to Database Management",
+    "description": "Understand the fundamentals of database management.",
+    "categoryId": 3,
+    "category": {
+      "id": 3,
+      "name": "Database Management",
+      "description": "Discover how to design, manage, and optimize databases for efficient data storage and retrieval."
+    }
+  },
+  {
+    "id": 4,
+    "title": "Operating Systems Fundamentals",
+    "description": "Explore the basics of operating systems and their functionalities.",
+    "categoryId": 4,
+    "category": {
+      "id": 4,
+      "name": "Operating Systems",
+      "description": "Understand the fundamentals of operating systems and their role in computer systems."
+    }
+  },
+  {
+    "id": 5,
+    "title": "Networking Essentials",
+    "description": "Learn about computer networks, protocols, and communication technologies.",
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Networking",
+      "description": "Learn about computer networks, protocols, and communication technologies."
+    }
+  },
+  {
+    "id": 6,
+    "title": "Cybersecurity Basics",
+    "description": "Discover the basics of cybersecurity and common threats.",
+    "categoryId": 6,
+    "category": {
+      "id": 6,
+      "name": "Cybersecurity",
+      "description": "Explore techniques and strategies to protect computer systems and data from cyber threats."
+    }
+  },
+  {
+    "id": 7,
+    "title": "Introduction to Cloud Computing",
+    "description": "Gain insights into cloud computing technologies and their applications.",
+    "categoryId": 7,
+    "category": {
+      "id": 7,
+      "name": "Cloud Computing",
+      "description": "Gain insights into cloud computing technologies and their applications in modern computing environments."
+    }
+  },
+  {
+    "id": 8,
+    "title": "Artificial Intelligence Fundamentals",
+    "description": "Discover the principles and applications of artificial intelligence and machine learning.",
+    "categoryId": 8,
+    "category": {
+      "id": 8,
+      "name": "Artificial Intelligence",
+      "description": "Discover the principles and applications of artificial intelligence and machine learning."
+    }
+  },
+  {
+    "id": 9,
+    "title": "Advanced Python Programming",
+    "description": "Dive deeper into Python programming language.",
+    "categoryId": 1,
+    "category": {
+      "id": 1,
+      "name": "Programming Languages",
+      "description": "Explore various programming languages and their features."
+    }
+  },
+  {
+    "id": 10,
+    "title": "Full Stack Web Development",
+    "description": "Learn front-end and back-end web development.",
+    "categoryId": 2,
+    "category": {
+      "id": 2,
+      "name": "Web Development",
+      "description": "Learn about building websites and web applications using HTML, CSS, and JavaScript."
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Programming Languages",
+    "description": "Explore various programming languages and their features."
+  },
+  {
+    "id": 2,
+    "name": "Web Development",
+    "description": "Learn about building websites and web applications using HTML, CSS, and JavaScript."
+  },
+  {
+    "id": 3,
+    "name": "Database Management",
+    "description": "Discover how to design, manage, and optimize databases for efficient data storage and retrieval."
+  },
+  {
+    "id": 4,
+    "name": "Operating Systems",
+    "description": "Understand the fundamentals of operating systems and their role in computer systems."
+  },
+  {
+    "id": 5,
+    "name": "Networking",
+    "description": "Learn about computer networks, protocols, and communication technologies."
+  },
+  {
+    "id": 6,
+    "name": "Cybersecurity",
+    "description": "Explore techniques and strategies to protect computer systems and data from cyber threats."
+  },
+  {
+    "id": 7,
+    "name": "Cloud Computing",
+    "description": "Gain insights into cloud computing technologies and their applications in modern computing environments."
+  },
+  {
+    "id": 8,
+    "name": "Artificial Intelligence",
+    "description": "Discover the principles and applications of artificial intelligence and machine learning."
+  }
+]
